@@ -3,4 +3,4 @@
 https://sqlzoo.net/
 
 SQLZOO is a great resource for querying real datasets and understanding data schemas.
-The site does not provide solutions, so I thought I'd share some of my self practice and ask for suggestions for improvements.
+The site doesn't provide solutions, so I thought I'd share my practice answers. Open to suggestions.
